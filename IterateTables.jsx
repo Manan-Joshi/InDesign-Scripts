@@ -1,12 +1,12 @@
 /*
 https://community.adobe.com/t5/indesign-discussions/accepting-track-changes-in-tables/td-p/13181717
 
-Script to get an array of all the talbes present in a document
+Script to get an array of all the tables present in a document
 Pre Requisite:- The script needs an open document
 Warning :- No elaborate error checking
 
 Author:- Manan Joshi
-Guthub Repo :- https://github.com/Manan-Joshi/InDesign-Scripts.git
+Github Repo :- https://github.com/Manan-Joshi/InDesign-Scripts.git
 */
 function getTables(pCol){
     var retval = [];

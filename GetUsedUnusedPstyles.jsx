@@ -7,7 +7,7 @@ Pre Requisite:- The script needs an open document
 Warning :- No elaborate error checking
 
 Author:- Manan Joshi
-Guthub Repo :- https://github.com/Manan-Joshi/InDesign-Scripts.git
+Github Repo :- https://github.com/Manan-Joshi/InDesign-Scripts.git
 */
 
 function getPStyleGroup(nmCol){
